@@ -1,0 +1,3 @@
+> Task: in #26 - Enhancements And Organize Code
+
+> Task: in #38 - Footer And Outro => create Scrolling Header Area using plugin "HeadRoom.js"
